@@ -1,0 +1,11 @@
+h1{
+    color: brown;
+    font-weight: bold;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
+.para{
+   color: aqua;
+   background-color: burlywood;
+   font-size: 25px;
+}

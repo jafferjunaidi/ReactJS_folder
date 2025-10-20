@@ -1,0 +1,26 @@
+shell:appsfolder <-- by run window show all installed and by default installed applications
+
+cd /d D:\Folder_name <-- change default directory to current directory by cmd
+
+cacls D:\Folder_name /e /p everyone:n <--secure folder no one can delete or open it without your permission
+
+cacls D:\Folder_name /e /p everyone:f <--Everyone can delete or open it 
+
+REACT AND VITE:
+npm create vite@latest project_name <-- create react project fast 
+
+npm install <-- install node packages
+OR
+npm i <-- install node packages
+
+npm install react-router-dom <--install react routing package
+
+npm run dev <-- run react project through cmd
+
+REACT:
+npx create-react-app project_name <-- create react project slow
+
+npm run start <-- run react project through cmd
+
+Ctrl + Shift + P <--in vscode window type this shortcut key command palette will open type reload window and enter this will reload vscode.
+

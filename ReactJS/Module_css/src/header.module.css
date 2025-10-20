@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    height: 230px;
+    animation: spin infinite 14s linear;
+}
+
+.logo:hover{
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+@keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
